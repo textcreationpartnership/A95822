@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>February 24. 1644. The most true and unanswerable answer of Charles Vaghan, to the most false and scandalous aspersions of Mr. Philip Francis, set forth in his last answer to my reply to his</title>
+            <author>Vaughan, Charles, gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95822</idno>
+            <idno type="STC">Wing V118</idno>
+            <idno type="STC">Thomason E258_29</idno>
+            <idno type="STC">ESTC R212481</idno>
+            <idno type="EEBO-CITATION">99871089</idno>
+            <idno type="PROQUEST">99871089</idno>
+            <idno type="VID">159252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159252)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E258[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>February 24. 1644. The most true and unanswerable answer of Charles Vaghan, to the most false and scandalous aspersions of Mr. Philip Francis, set forth in his last answer to my reply to his</title>
+                  <author>Vaughan, Charles, gentleman.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 1st 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Francis, Philip, --  of Plymouth, merchant --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:159252:1" rendition="simple:additions"/>
+            <head>
+               <hi>February</hi> 24. 1644. The moſt true and unanſwerable Anſwer of <hi>Charles Vaghan,</hi> to the moſt falſe and ſcandalous Aſperſions of Mr. <hi>Philip Francis,</hi> ſet forth in his laſt Anſwer to my Reply to his:</head>
+            <list>
+               <head>Wherein I deſire that it may be obſerved,</head>
+               <item>1. THat hee makes no anſwer at all to the moſt, and moſt materiall Accuſations againſt him.</item>
+               <item>2. What hee pretends to anſwer, is meere ſhifts, and no anſwer.</item>
+               <item>3. That in ſtead of anſwering, hee rayles, and moſt falſly ſcandalizes divers men moſt faithfull to the Parliament.</item>
+            </list>
+            <p>As, 1. Hee makes no anſwer at all to theſe things; <hi>viz.</hi>
+            </p>
+            <p>Firſt, <hi>That upon my humble deſire to the Committee of</hi> Plimouth, <hi>that the</hi> 200 l. <hi>might be ſatisfied to Mr.</hi> Keckwich, <hi>that ſo I might have up my Security which he had of me when hee delivered me the Pearle, (which I alſo deſired of the ſaid Com<g ref="char:EOLhyphen"/>mittee whileſt Mr.</hi> Keckwich <hi>was in</hi> London, as Sir <hi>Edmund Fowell</hi> hath already teſtified) <hi>or that I might, by Order of the Parliament, be freed from it &amp;c. and the ſaid Committee agreed unto it;</hi> as Sir <hi>John Bampfeild</hi> Baronet, <hi>Anthony Nicoll,</hi>
+               <note place="margin">Note.</note> and <hi>Thomas More</hi> Eſquires, (members of the Houſe of Commons, who were pre<g ref="char:EOLhyphen"/>ſent) know.</p>
+            <p>Now, becauſe all the difference between Mr. <hi>Francis</hi> and me grew concerning the Pearle, I deſire that the caſe may be known, which is this;</p>
+            <p>
+               <hi>April</hi> 27. 1643. There was an Ordinance of Parliament, that all that ſhould be ſequeſtred in <hi>Devon</hi> ſhould be iſſued by warrant of three or more of the Committee, under their hands and ſeals, and not otherwiſe.</p>
+            <p>
+               <hi>February</hi> 14. 1643. Three of the ſaid Committee ordered, under their hands and ſeals accordingly, that the ſaid Pearle ſhould be diſpoſed for the Gariſon of <hi>Pli<g ref="char:EOLhyphen"/>mouth;</hi> and thereupon took up the 200 l. of Mr. <hi>Keckwich,</hi> leaving the Pearle with him for his ſecurity, who after left them with me, taking under my hand to be paid his 200 l. and the overplus to be returned to <hi>Plimouth,</hi> for the Gariſon; as the ſaid Sequeſtrators there ordered.</p>
+            <p>
+               <hi>August</hi> 24. 1644. Upon miſ-information to the Committee of <hi>Plimouth</hi> from Mr. <hi>Francis</hi> (that there was 6000 l. due to him from the Parliament) he obtained in Order to have the Pearle; but that Honourable Committee being after acquain<g ref="char:EOLhyphen"/>ted by me, with the 200 l. for which I ſtood ingaged to Mr. <hi>Keckwich,</hi> upon the receipt of the Pearle from him, agreed (according to my deſire) to acquaint the Houſe with it for my diſcharge, as afore-ſaid; which Mr. <hi>Francis</hi> perceiving, it ſeems he got ſome one (who was not preſent when the ſaid Committee agreed that the Houſe ſhould be ſo moved in it) to move the Houſe to procure a confirmation of the firſt Order, for delivering the Pearle to him, <note place="margin">Note.</note> without mentioning the laſt agree<g ref="char:EOLhyphen"/>ment of the ſaid Committee, which hath cauſed all the miſtake which hath followed;
+<pb n="2" facs="tcp:159252:2"/>Mr. <hi>Francis</hi> thus labouring to procure the Pearle, when he hath not proved any peny to be due to him; and I endeavour onely that it might be for the good of <hi>Plimouth,</hi> without any benefit (but trouble) to my ſelfe.</p>
+            <p>And whereas Mr. <hi>Francis</hi> now ſaith, <hi>That hee refuſed to deliver the Pearle to Col.</hi> Gold <hi>and the reſt of the Sequeſtrators in</hi> Plimouth, <hi>becauſe they had no Order;</hi> They had an Ordinance of Parliament to require it, and to commit him (as they did) upon his refuſall; and hee ſtands ſtill committed, for hee made an eſcape, having given bond in 1000 l. for his true impriſonment.</p>
+            <p>Secondly, I deſire it may be obſerved, that Mr. <hi>Francis</hi> makes no anſwer at all to this charge, <hi>viz. That when the Sequeſtrators in</hi> Plimouth <hi>would have had the Pearl from him, to be diſpoſed for the payment of the Gariſon, (which was in great want) hee refuſed to be examined by them, to diſcover where they were; and ſome of his family being examined, ſwore very deſperately; onely one</hi> Wood <hi>dealt ingeniouſly, ſo that by degrees it was diſcovered, that ſomething wrapped up in Canvas, and ſea<g ref="char:EOLhyphen"/>led up, was delivered out of Mr.</hi> Francis <hi>houſe, over the wall of his yard, to a Coo<g ref="char:EOLhyphen"/>per, and brought backe againe into the houſe; whereupon the Cooper being exami<g ref="char:EOLhyphen"/>ned upon Oath, confeſſed, that the box of Pearle was delivered to him over the wall, and the ſame day fetched from him againe, and after, the ſame day, brought backe to him againe, and remained in his cuſtody. This double was made (as the Sequeſtra<g ref="char:EOLhyphen"/>tors underſtood) purpoſely to delude them upon the examination; for ſo the reſt (who were privie to it) did upon their examinations diſcover.</hi> And if the Pearl be worth 800 l. (as Mr. <hi>Francis</hi> intimates) why doth hee not procure ſo much for them? ſeeing hee hath ſet under his hand <hi>July</hi> 25. 1644. <hi>that they are all there;</hi> at which time they were ſealed up in a box by himſelf, and ſo remaine ſtill; and yet now hee would caſt an aſperſion (if hee knew upon whom) as if ſome of them were imbezeled; ſo as <hi>Oportet — eſſe memorem.</hi>
+            </p>
+            <p>Thirdly, I deſire that it may be obſerved, that Mr. <hi>Francis</hi> makes no anſwer at all to this charge, <hi>viz. That he got an Order from the Committee of</hi> Plimouth, <hi>for himſelfe and Mr.</hi> Thomas Viner <hi>Gold-ſmith, to compare the firſt Inventory which was taken of the Pearle, with the Inventory which Col.</hi> Gold <hi>and the reſt of the Se<g ref="char:EOLhyphen"/>queſtrators of</hi> Plimouth <hi>ſent up of them, under their hands and ſeales; which being diligently compared by them, they certified under their hands to the Committee of</hi> Plimouth, <hi>that they found the Pearle to agree with both the ſaid Inventories.</hi>
+            </p>
+            <p>Fourthly, Mr. <hi>Francis</hi> makes no anſwer to this, <hi>viz. That the Pearle were after valued by ſome who were appointed by the Committee of</hi> Plimouth, <hi>and divers others, and yet they all valued them under the value which they were valued at by thoſe who were intreated to value them by Mr.</hi> Keckwich.</p>
+            <p>Now, if any demand, why I printed my Petition, and Exceptions to Mr. <hi>Francis</hi> Account? I anſwer, that I did it,</p>
+            <p n="1">1. That the Parliament might be acquainted with it, ſeeing my Petition hath long beene in the hands of ſome Parliament men, who by reaſon of the multitude of greater buſineſſes could not move it.</p>
+            <p n="2">2. That Mr. <hi>Keckwich</hi> might be ſatisfied his 200 l. which hee freely lent to pay the Parliaments Gariſon in <hi>Plimouth,</hi> and that I might be freed from my engage<g ref="char:EOLhyphen"/>ment for it.</p>
+            <p n="3">3. That the Honourable Houſe of Parliament might not be wronged by M. <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> unreaſonable Account.</p>
+            <p>Fifthly, Mr. <hi>Francis</hi> makes no anſwer to this wherewith I charge him <hi>viz.</hi> That
+<pb n="3" facs="tcp:159252:2"/>
+               <hi>hee miſ-recites all my Exceptions to his Account, by adding, altering, or leaving out part; and ſo makes anſwer to Exceptions of his owne.</hi>
+            </p>
+            <p>Sixthly, Mr. <hi>Francis</hi> makes no anſwer to this, <hi>viz. That Mr.</hi> Kelland, <hi>Mr.</hi> Yard, <hi>Mr.</hi> Hody, <hi>and Mr.</hi> Lowman <hi>were firſt aſſeſt by the Commiſſioners</hi> 2220 l. (<hi>being all Malignants, and ſince Mr.</hi> Kelland <hi>hath been a Commiſſioner, and Mr.</hi> Hody <hi>and Mr.</hi> Yard <hi>Captains for the Enemy, and yet are</hi>) <hi>which yet after upon full debate of the Commiſſioners was brought downe to</hi> 1720 l. <hi>at leaſt, and it was reſolved that that ſhould ſtand without any more abatement; who after being taken and brought to</hi> Plimouth, <hi>Mr.</hi> Francis <hi>refuſed to joyne with the reſt of the Commiſſioners in com<g ref="char:EOLhyphen"/>mitting of them, and without, yea, contrary to the liking of the reſt of the Commiſſio<g ref="char:EOLhyphen"/>ners (after they were committed by the reſt) hee laboured to remove them to ſome friends houſe.</hi>
+            </p>
+            <p>Seventhly, he makes no anſwer to this quere, <hi>viz. Whether it were thought fit at a generall Councell of Warre, or, whether Mr.</hi> Francis <hi>did not ſolicite ſome of them in private (who were his friends) to yeeld to his deſire to compound with the ſaid Malignants for</hi> 800 l.</p>
+            <p>Eighthly, he makes no anſwer to this which I ſaid, <hi>viz. That my books of Account (which I left as ſafe as mine own Books and Evidences of great importance) were all taken by the Enemy after</hi> Exeter <hi>was yeelded, as the party from whom they were taken, and divers others of worth and credit (who are here) can teſtifie.</hi>
+            </p>
+            <p>Ninthly, hee makes no anſwer to this, <hi>viz. That there were plaine diſcoveries of Sir</hi> Alexander Carews <hi>intention to revolt, before it was done: As,</hi> 1. <hi>by his ſecret intelligence and correſpondence with Mr.</hi> Edgcomb <hi>and others of the Enemies ſide in</hi> Cornwall. 2<hi rend="sup">ly</hi>. <hi>His going over ſecretly to</hi> Mount-Edgcomb <hi>to conferre with them.</hi> 3<hi rend="sup">ly</hi>. <hi>The contents of a Letter written by him, wherein he promiſed upon the procure<g ref="char:EOLhyphen"/>ment of his pardon, and ſecurity of his eſtate, (which pardon was accordingly procu<g ref="char:EOLhyphen"/>red, and his ſtock marked with Mr.</hi> Edgecombs <hi>marke, to preſerve them for him) to performe what he had promiſed to them.</hi> 4<hi rend="sup">ly</hi>. <hi>Overtures made to the Souldiers in the Iland to take his part, and to make their peace with the Enemy, and divers other things of this kind; and all this made known to Mr.</hi> Francis, <hi>with tender of proofe upon oath; and hee was divers times urged by ſome of the moſt conſiderable honeſt men of the Town (when Sir</hi> Alexander <hi>was in the Town) to have ſtayed him there, and ſecured his Perſon for prevention of the treachery, or to have ſuffered them to doe it; yet hee would not, but ſhewed his diſlike to thoſe who brought ſuch informa<g ref="char:EOLhyphen"/>tion, and ſolicited him therein, till the Iland was loſt, and by a miraculous providence of God recovered againe, without any help of his.</hi>
+            </p>
+            <p>Tenthly, hee makes no anſwer to this, <hi>viz.</hi> That <hi>I three times deſired, and ear<g ref="char:EOLhyphen"/>neſtly preſſed him to it</hi> (in my Reply) <hi>to have the difference between him and me ex<g ref="char:EOLhyphen"/>amined upon oath;</hi> I confidently affirming (as it is true) that it will be proved: So that in all theſe things hee thereby acknowledgeth his guilt therein.</p>
+            <p>Secondly, What hee pretends to anſwer, is meere ſhifts, and no Anſwer: As,</p>
+            <p>Firſt, He anſwers not my charge againſt him concerning Sir <hi>Alexander Caren</hi> (as before appears) but tells a tale of his writing to the Parliament, with the Anſwer thereunto, which may be ſo; but had the Parliament been truly informed of his offence, in not ſecuring Sir <hi>Alexander</hi> when he might and ought, upon good proofe offered to him, as afore-ſaid, its like the thankes which he had would have been turned into puniſhment; for, had the Iland been loſt, (as it was Gods wonderfull mercy that it was not) Mr. <hi>Francis</hi> might have ſuffered in a high degree.</p>
+            <pb n="4" facs="tcp:159252:3"/>
+            <p>Secondly, Whereas he ſaith, that <hi>Captain</hi> Hancock <hi>aſſured him</hi> of the integrity of the Souldiers in the Iland; It is not ſo: for there were but ſeven or nine at the moſt who joyned with Captain <hi>Hancock;</hi> and beſides, the aſſiſtance which Mr. <hi>Francis</hi> promiſed him was not performed; as by the ſaid <hi>Hancocks</hi> and <hi>Skinners</hi> Examina<g ref="char:EOLhyphen"/>tions appeares, of which I have a Copie.</p>
+            <p>Thirdly, Whereas Mr. <hi>Francis</hi> ſaith, that <hi>there then appeared only cauſe of jealouſie, and no apparent cauſe of proofe againſt Sir Alexander;</hi> Mr. <hi>Wills</hi> a godly Miniſter, and divers others know, that there was direct proofe offered to Mr. <hi>Francis,</hi> as afore-ſaid.</p>
+            <p>Fourthly, Whereas Mr. <hi>Francis</hi> ſaith, that <hi>he endeavoured to get Sir</hi> Alexander <hi>a<g ref="char:EOLhyphen"/>gaine to</hi> Plimouth, <hi>reſolving to ſecure him if he came:</hi> It appears by Capt. <hi>Hancocks</hi> and <hi>Skinners</hi> Examinations, that Mr. <hi>Francis</hi> knew that Sir <hi>Alexander</hi> was jealous of being ſecured if hee came again to <hi>Plimouth,</hi> and therefore it was folly (if not worſe) to let him goe to the Iland (where he ſtrengthened his party) and to expect that he would come again into the pit-fall; and therefore I need not <hi>bluſh</hi> for having accuſed Mr. <hi>Francis</hi> ſo juſtly therein.</p>
+            <p>Fifthly, Neither was Mr. <hi>Francis acquitted</hi> (as he pretends) <hi>upon examination of this and the reſt of his miſdemeanours in the Articles ſent up againſt him to the Parliament;</hi> for there was no examination thereof, only becauſe Mr. <hi>Trotell</hi> neglected to proſecute; for which, thoſe of <hi>Plimouth</hi> were diſpleaſed with him, and lately ſent up one Mr. <hi>Arundell,</hi> who is now dead, to proſecute thoſe and other miſdemeanours againſt M. <hi>Francis.</hi>
+            </p>
+            <p>Sixthly, Now Mr. <hi>Francis</hi> pretends, <hi>he fell not off to the <g ref="char:V">Ʋ</g>triuſques</hi> (as I charge him) <hi>upon Sir</hi> Wil. Wallers <hi>blow at the</hi> Vizes, <hi>becauſe</hi> (he ſaith) <hi>hee after encoun<g ref="char:EOLhyphen"/>tred the Enemy, and forced them to fly; which in a Pamphlet</hi> (ſaith he) <hi>is attributed to thoſe who were never guilty of it;</hi> meaning (as I conceive) Col. <hi>Gold,</hi> by whoſe valour (under God) indeed it was done; the Colonell having then his horſe killed under him, and mounting another, that was alſo ſhot by the Enemy; and it will be proved by many, that it was then after-noon with Mr. <hi>Francis.</hi>
+            </p>
+            <p>Seventhly, In Mr. <hi>Francis</hi> Anſwer to my Reply to <hi>his Account,</hi> he excepts, that I replied only to two of his Anſwers to my Exceptions to it; which is true; becauſe (as I ſaid, and ſo ſay ſtill) that I deſire that neither my Exceptions, nor his Anſwer, might be beleeved on either of our bare affirmations, but that it might be examined upon oath; and therefore I earneſtly urged him, three times in my Reply, to have it examined; but he likes not to heare of that, and therefore ſaith nothing to it, know<g ref="char:EOLhyphen"/>ing that it will be proved. Now, I could inſtance in divers particular unallowable demands in his Account, but becauſe it would make my Paper to ſwell too big, and is fit to be ſpoken when his Account comes to be examined, in the interim, take onely this Certificate, which I have from an honeſt Captain in <hi>Plimouth.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>IN the thirteenth Article of Mr.</hi> Vaghans <hi>Exceptions to Mr.</hi> Francis <hi>his Account, of the ſetting forth of two Ships: It is true, they wore the Parliament Colours, but I never knew any ſervice they were put upon; for one of them carried deal-boards for</hi> Barnſtaple, <hi>and landed them at</hi> Appledoore; <hi>and from thence the ſaid Veſſel went for</hi> Burrey <hi>in Wales, where ſhee loaded coales, and brought them to</hi> Plimouth <hi>for the owners uſe. And for the other Ship, as I remember, ſhee went not from the Key of</hi> Plimouth: <hi>And therefore, in my judgement, the</hi> 453 l. <hi>charged for them, is an in<g ref="char:EOLhyphen"/>jury done the State.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Plimouth,</hi> 
+                        <date>Jan. 8. 1644.</date>
+                     </dateline>
+                     <signed>Henry Hatſell.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="5" facs="tcp:159252:3"/>
+            <p>Eighthly, To my charge of his diſcharging Mr. <hi>Kelland,</hi> and the three other Ma<g ref="char:EOLhyphen"/>lignants, of 920 l. (which was aſſeſſed on them) contrary to the Ordinance of Par<g ref="char:EOLhyphen"/>liament: To this Mr. <hi>Francis</hi> ſaith, that <hi>he diſcharged them out of Priſon, but not of their Aſſeſment; but took</hi> 800 l. <hi>in part of the</hi> 1720 l. <hi>and the reſt they are liable to ſtill;</hi> whereas, by his uſurped unlimited power, hee ſent thoſe Malignants out of the Town into the Enemies Quarters, where they fight againſt the Parliament; ſo that now we have no power to raiſe the reſt, no more than we had to get Sir <hi>Alexander Carew</hi> again when Mr. <hi>Francis</hi> refuſed to ſecure him, and let him goe away, when hee was in <hi>Plimouth.</hi>
+            </p>
+            <p>Ninthly, Why Mr. <hi>Francis,</hi> or any other, would not ſuffer the 800 l. which hee had upon Aſſeſment of Mr. <hi>Kelland</hi> and the reſt, to be diſpoſed by the Commiſſio<g ref="char:EOLhyphen"/>ners of Aſſeſment, according to the Ordinance of Parliament, hee ſhewes no reaſon, nor indeed can.</p>
+            <p>Tenthly, As for my books of Account, I have offered to prove to the Accountants of the Kingdome, that the Enemy hath them all; and I have done all that I can to pro<g ref="char:EOLhyphen"/>cure them; but, I beleeve, Mr. <hi>Francis</hi> doth and will hinder it, knowing that I ſhall prove him falſe thereby: and it is a ſimple argument for him to ſay that I have <hi>my Accounts, becauſe I remember</hi> 734 l. <hi>which was payd to Major</hi> Herbert; which I remembred the better, by conferring with my man who payd it, and it being the greateſt ſumme that I ever payd at one time to one man, for Officers onely.</p>
+            <p>Eleventhly, Whereas Mr. <hi>Francis</hi> ſaith, <hi>That I and my man might have come out of</hi> Exeter <hi>with the Earle of</hi> Stamford, <hi>and then we had paſſed very ſafely and ſecure, as the reſt of the Earles company did;</hi> (and ſo hee inferres, that I might have brought my Accounts with me;) I did come out with the Earle, and yet was robbed by the Enemy of all that I had, and ſo were many other, as is too well known.</p>
+            <p>Thirdly, I come to Mr. <hi>Francis</hi> moſt unchriſtian and falſe ſlanders of the dead and abſent, moſt faithfull men to the Parliament.</p>
+            <p>Firſt, that worthy and ever to be honoured Colonell <hi>Gold:</hi> As,</p>
+            <p n="1">1. Whereas Mr. <hi>Francis</hi> ſaith, <hi>That there is a great deale of money due from the ſaid Colonell to the Parliament,</hi> all men, that will ſpeak truth, know and beleeve that he is out of purſe, and ſtands ingaged many thouſand pounds for the Parliament.</p>
+            <p n="2">2. Whereas Mr. <hi>Francis</hi> ſaith, <hi>That Col.</hi> Gold <hi>preſt the Committee in</hi> Plimonth <hi>and Deputy Lievtenants to ſearch every mans houſe in the Town, and to take from them, by force, all ſuch money and plate as ſhould be found in their houſes, if they would not part with it otherwiſe.</hi> It will be proved, that ſome wel-affected in <hi>Plimouth,</hi> who had plate, (the Souldiers being like to mutiny for want of pay) offered their plate to the Colonell, and deſired that the reſt who had plate might be intreated to part with it alſo, ſo as the Colonell and ſome of Mr. <hi>Francis</hi> friends would be engaged to pay the value of it; which the Col. thereupon moved, and offered to be engaged, but Mr. <hi>Francis</hi> friends refuſed, and ſo there was nothing more done in it.</p>
+            <p n="3">3. Whereas hee ſaith, <hi>That Col.</hi> Gold <hi>owed Mr.</hi> Kelland 1000 l. <hi>by bond, and that Mr.</hi> Kelland <hi>was often offered at</hi> Dartmouth <hi>and</hi> Plimouth, <hi>that if hee would deliver up the bond, they ſhould be all freed:</hi> It will be proved by <hi>Arthur <g ref="char:V">Ʋ</g>pton</hi> Eſquire, and Mr. <hi>Richard Nicholl,</hi> who are here, and divers others, that Mr. <hi>Kelland.</hi> himſelfe offered to deliver up that bond, if they might have been freed, but it was refuſed; neither was the 1000 l. the Colonels debt, but borrowed for the Parlia<g ref="char:EOLhyphen"/>ment, for which he and others were bound; and Mr. <hi>Francis</hi> had 800 l. of the ſame money, as appears by his own Account; and therefore it is a moſt wilfull falſe ſlander.</p>
+            <pb n="6" facs="tcp:159252:4"/>
+            <p>Secondly, Mr. <hi>Francis</hi> falſly accuſeth <hi>Thomas Gewen</hi> Eſquire: As,</p>
+            <p n="1">1. <hi>That hee is indebted to the State for money which he received for Aſſeſments and Sequeſtrations, and refuſeth to give an Account.</hi> Whereas the truth is, that a<g ref="char:EOLhyphen"/>bout <hi>October</hi> 1643. Mr. <hi>Francis,</hi> and ſome others (whom hee procured to joyne with him) required Mr. <hi>Gewen</hi> to give them an Account; at which time he deſired to ſee by what Authority they required it, but they would not ſhow, nor indeed had any; yet Mr. <hi>Gewen</hi> (to take off all exceptions and jealouſie) delivered them an Ac<g ref="char:EOLhyphen"/>count of all his receipts and disburſements, which was examined and allowed by Col. <hi>Gold,</hi> Mr. <hi>Beare,</hi> and Mr. <hi>Champneys,</hi> the Parliaments Commiſſioners; where<g ref="char:EOLhyphen"/>by it appeared, that there was 232 l. 19 s. 8 d. due to him: and, to manifeſt his de<g ref="char:EOLhyphen"/>ſire to have his Account taken, hee then writ up (as ſome Parliament men know) to procure an Ordinance for the taking of his owne Account firſt, and after the reſt of the Accomptants in <hi>Plimouth;</hi> but before it could be had, the Ordinance for taking all the Accounts of the Kingdome was made; ſo that its plaine, that hee was deſirous to have his Account taken, and he is ready to give it to thoſe who have now Authority there to take it, but Mr. <hi>Francis</hi> ſtays purpoſely here, as is conceived, becauſe he would not give his own Account, knowing that it will be proved falſe by many in <hi>Plimouth.</hi>
+            </p>
+            <p n="2">2. He chargeth <hi>Mr.</hi> Gewen <hi>to have held intelligence with</hi> Peter S<hi rend="sup">t</hi> Hill <hi>Eſquire.</hi> Which was thus; whileſt the Siege was before <hi>Exeter</hi> Mr. <hi>S<hi rend="sup">t</hi> Hill</hi> writ to Mr. <hi>Gewen</hi> about the exchange of Priſoners, and withall deſired there might be peace, profering to doe his beſt therein, perſwading Mr. <hi>Gewen</hi> to the like, which hee ſhewed to all the Gentlemen of quality hee met with; and by the ſame Meſſenger returned an an<g ref="char:EOLhyphen"/>ſwer, to convince Mr. <hi>S<hi rend="sup">t</hi> Hill</hi> of his error, and to juſtifie the Parliaments Cauſe, in an excellent manner; as will be proved, the Letter being ſeen.</p>
+            <p>Thirdly, The like charge Mr. <hi>Francis</hi> hath againſt Mr. <hi>Nicholas Row;</hi> but he was acquitted thereof by the Councell of Warre in <hi>Plimouth.</hi> Thus Mr. <hi>Francis</hi> falſly accuſeth the beſt-affected to the Parliament; but when himſelf was told by his friend Mr. <hi>Wills</hi> (a godly Miniſter in <hi>Plimouth</hi>) that it was reported that hee privately re<g ref="char:EOLhyphen"/>ceived a Letter from the King, and was adviſed by Mr. <hi>Wills</hi> to queſtion the party in <hi>Plimouth,</hi> who was ſaid to have brought it to him, hee looked as pale as his band, and would not queſtion it, leſt it ſhould be proved.</p>
+            <p>Fourthly, He falſly accuſeth <hi>Rich. Verman,</hi> That <hi>Major</hi> Herbert <hi>gave him</hi> 3<hi rend="sup">l</hi>. when hee paid him the 734 l. Which the Major being now ſpoken with will not depoſe.</p>
+            <p>Fifthly, Whereas Mr. <hi>Francis</hi> ſaith, <hi>That Mr.</hi> Keckwich <hi>bought Rice of Captain</hi> Battin, <hi>with the Parliaments money, at</hi> 24 s. <hi>per Cent. upon engagement to ſell it at</hi> Plimouth <hi>at the ſame rate; yet hee ſold it for</hi> 30 s. 34 s. <hi>and</hi> 36 s. <hi>per Cent: And having received Dollers at</hi> 4 s. <hi>a peece, he paid them to the Souldiers in</hi> Plimouth at 4 s. 4 d. <hi>a peece.</hi> To manifeſt Mr. <hi>Francis</hi> his falſity therein, I have theſe Certifi<g ref="char:EOLhyphen"/>cates which follow; <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>VVHereas we have ſeen a printed Paper, publiſhed under the name of Mr.</hi> Phi<g ref="char:EOLhyphen"/>lip Francis <hi>of</hi> Plimouth, <hi>importing the diſparagement of Mr.</hi> Peter Keck<g ref="char:EOLhyphen"/>wich, (<hi>now reſident in</hi> Plimouth <hi>alſo) as if the ſaid</hi> Keckwich <hi>had unreaſonably ex<g ref="char:EOLhyphen"/>acted upon the Town in the ſale of Rice at</hi> 30 s. 34 s. 36 s. <hi>per Cent. Which hee ſhould buy (and that with the Parliaments money) of Captain</hi> Battin <hi>at</hi> 24 s. <hi>And likewiſe, that he ſhould receive certaine Dollers at</hi> 4 s. <hi>a peece, for the Publike uſe, and ſhould diſpoſe them at</hi> 4 s. 4 d. <hi>a peece, to his private advantage:</hi>
+                  </p>
+                  <p>
+                     <hi>Now (for the vindication of Truth, as well as his Reputation, and as wee con<g ref="char:EOLhyphen"/>ceive
+<pb n="7" facs="tcp:159252:4"/>our ſelves, at his requeſt, bound) We certifie, That the ſaid</hi> Keckwich <hi>(though diſpoſſeſſed of all his reall eſtate, lying in</hi> Cernwall) <hi>hath been ever faithfull adhe<g ref="char:EOLhyphen"/>rent to the Parliament, forward and active (both by his perſon and purſe) to advance both the particular good of this Town, and the geuerall of the State. And touching that in ſpeciall above-ſaid of the Rice, That hee ſold it but at</hi> 28 s. per Cent. <hi>(al<g ref="char:EOLhyphen"/>though by reaſon of the ſcarcity of that commodity, and moſt others, as that time, had hee tendered (as is charged) ſo much his owne particular, hee might doubtleſſe have ſold it at a higher rate:) the price it ſtill beares, though great ſtore be fince brought in. That he bought the ſaid Rice (for ought wee know or thinke) with his own mo<g ref="char:EOLhyphen"/>neys, and could gaine little or nothing thereby, allowing for waſte and charges.</hi>
+                  </p>
+                  <p>
+                     <hi>And touching the Dollers above-ſaid, It appeares by receipts ſhewed us, that the profit and over-plus made of them, was imployed wholly in the ſervice of the State, not to the private uſe of the ſaid</hi> Keckwich, <hi>at is in the ſaid Paper pretended.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Plimouth, <date>Jan. 3. 1644.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Witneſſe our hands,</hi>
+                        <list>
+                           <item>Henry Pellerfen.</item>
+                           <item>John Champneys.</item>
+                           <item>John Beare.</item>
+                           <item>Juſtinian Peard, Maior.</item>
+                           <item>John Bampfield.</item>
+                           <item>John Caws.</item>
+                           <item>Thomas Ceely.</item>
+                           <item>Richard Evens.</item>
+                           <item>Chriſtopher Ceely.</item>
+                           <item>Timothy Alſop.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>AT the requeſt of Mr.</hi> Peter Keckwich, <hi>upon a printed Paper ſet out by Mr.</hi> Phi<g ref="char:EOLhyphen"/>lip Francis, <hi>concerning a parcell of Rice which the ſaid</hi> Keckwich <hi>bought of me about twelve Moneths ſince, which was as followeth: At my coming to relieve</hi> Pli<g ref="char:EOLhyphen"/>mouth, <hi>in</hi> January 1643, <hi>underſtanding the Town to be in great want of victuals, I bought with my owne money a certaine quantity of Rice, to the value of ſeventy or eighty pounds, which I intended to let the beſieged have at the ſame price I bought it; but at my arrivall at</hi> Plimouth, <hi>not going on ſhore my ſelfe, nor any coming on<g ref="char:EOLhyphen"/>board to treat with me about it, although I made it known; I acquainted the ſaid</hi> Pe<g ref="char:EOLhyphen"/>ter Keckwich <hi>with it, who took it of me upon the termes I bought it, which was twenty foure ſhillings per Hundred, without any Injunction, by me, to ſell it to the Town at the ſame rate; onely I told him for what end I bought it. And this is the whole truth of the buſineſſe: Witneſſe my hand,</hi>
+                  </p>
+                  <closer>
+                     <date>January 9, 1644.</date>
+                     <signed>William Batten.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>And for the Dollers, he received them at foure ſhillings two pence per Doller, at</hi> Dover, <hi>but how hee paid them at</hi> Plimouth, <hi>I know not.</hi>
+                  </p>
+                  <closer>
+                     <signed>William Batten.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Sixthly, Hee moſt falſly ſaith of me,</p>
+            <p n="1">1. That <hi>I have, or have tranſported much of the States money beyond the ſeas:</hi> But I will give him all that I have, or have tranſported, for ſix pence.</p>
+            <p n="2">2. Hee <hi>calls mee <g ref="char:V">Ʋ</g>ſuror,</hi> and ſaith that <hi>I have taken forfeitures:</hi> Whereas hee cannot inſtance of any money put out by mee to uſury, nor of any forfeiture
+<pb n="8" facs="tcp:159252:5"/>ever taken by mee: but hee is ſo touched upon the gall, in the truths wherewith I have charged him, that it makes him thus to wince.</p>
+            <p n="3">3. Hee ſaith, that <hi>I paid the Souldiers halfe that was due to them, and took re<g ref="char:EOLhyphen"/>ceipts for the whole.</hi> Which is moſt falſe.</p>
+            <p n="4">4. Hee ſaith that <hi>the Souldiers being much arreare of their pay, and there be<g ref="char:EOLhyphen"/>ing a great quantity of Plate of the Parliaments in my cuſtody, ſufficient to ſatisfie them, and one</hi> William Gobell <hi>being ſent by the Parliament to coyne it, I would not permit him, but ſent him away, and left the Plate in</hi> Exeter <hi>to the Enemy upon the ſurronder thereof.</hi> (To which I anſwer, that there was about 1300 l. worth of plate which had been brought in upon the Propoſitions to Mr. <hi>Bartlet</hi> and Mr. <hi>Anthony,</hi> Gold-ſmiths in <hi>Exeter,</hi> who were appointed by the Deputy Lievtenants to receive it; whereupon the Commiſſioners of Aſſeſment writ to ſome Members of the Parliament, to deſire an Ordinance to coyne it; and thereupon the ſaid <hi>Gobell</hi> came to <hi>Exeter,</hi> and the Commiſſioners ſeverall times ſpake with him; but finding 1. That hee made ſcruple to coyne it, becauſe (as hee pretended) it would be Trea<g ref="char:EOLhyphen"/>ſon. 2. Hee made ſuch demands for the charge to doe it, that the Plate would yeeld much more as it was; wherefore they gave him for his paines, and hee retur<g ref="char:EOLhyphen"/>ned: and then by agreement of the Commiſſioners, the Plate was ſent to <hi>London,</hi> to buy the Armes for the Parliament (as <hi>Anthony Nicoll</hi> Eſquire, and divers other Parliament men know) which Mr. <hi>Francis</hi> had at <hi>Plimouth,</hi> for which hee hath given no account: And therefore it is a foule ſlander, which hee ſaith, <hi>That I left the ſaid Plate intire in the City to the Enemy, upon the ſurrender thereof.</hi>
+            </p>
+            <p>So that upon the whole matter, this Character may be made of the man, <hi>Malice, Pride, Impudency, and Falſhood, wrapped up in Ignorance.</hi>
+            </p>
+            <p>Wherefore, to conclude, ſeeing hee hath adventured his ſoule, in ſetting forth ſo many falſe and ſcandalous reports, but I beleeve hee will not venture his eſtate therein, which to try I make him this offer, Let him give mee an appearance to a Suit, for the ſcandalls which hee hath publiſhed of mee, without ſheltering himſelfe under any protection (that hee might ſo vent his falſe ſlanders) and I will doe the like to him, if hee will bring any Suit againſt mee, for any thing that I have pub<g ref="char:EOLhyphen"/>liſhed againſt him: And then it will appeare to all, whether the foreſaid Character he not true of him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>To the Reader.</head>
+            <p>1 Theſ. 5.21. <hi>Prove all things: hold faſt that which is good.</hi>
+            </p>
+         </div>
+         <div type="author_to_accuser">
+            <head>To Mr. <hi>Francis.</hi>
+            </head>
+            <q>
+               <bibl>Gal. 4.16.</bibl> 
+               <hi>Veritas odium parit.</hi>
+            </q>
+            <q>
+               <bibl>2 Pet. 2.1.</bibl> 
+               <hi>Bring not rayling accuſation.</hi>
+            </q>
+            <q>
+               <bibl>Pro. 12.19.</bibl> 
+               <hi>The lip of truth ſhall be eſtabliſhed for ever: but a lying tongue is but for a moment.</hi>
+            </q>
+            <q>
+               <bibl>Job 27.5.</bibl> 
+               <hi>God forbid that I ſhould juſtifie you: till I dye I will not remove mine integrity from mee.</hi>
+            </q>
+            <closer>
+               <signed>Charles Vaghan.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
